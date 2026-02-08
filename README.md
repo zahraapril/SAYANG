@@ -1,1 +1,1 @@
-# TextForCrush
+open
